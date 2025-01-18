@@ -13,7 +13,7 @@
 
 Projeto com o objetivo de trabalhar a lógica de programação com linguagem JavaScript, para o programa ONE da Oracle em parceira com a Alura.
 
--READ ME em construção
+- No projeto foram trabalhados lógica de programação, bem como utilização e conceitos de JavaScript, como arrays, funções, if, else.
 
 
 
